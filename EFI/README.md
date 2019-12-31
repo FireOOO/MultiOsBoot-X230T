@@ -14,3 +14,6 @@ BIOS设置为UEFI启动，使用GPT分区，安装的系统有：
 
 分区表
 ![](https://github.com/KyleTang/MultiOsBoot-X230T/raw/master/分区表.png)
+
+备注：
+OS：windows 10
