@@ -56,3 +56,13 @@ X230T
 - EFI入口 \EFI\PhoenixOS\Boot\bootx64.efi
 - 将启动权转给与bootx64.efi同目录的grubx64.efi，
 - 加载启动菜单配置文件 \EFI\Boot\grub.cfg
+
+## 参考
+- Hackintosh黑苹果长期维护机型EFI及安装教程整理 https://github.com/daliansky/Hackintosh
+- Clover EFI BootLoader https://sourceforge.net/projects/cloverefiboot/
+- Hackintosh-X230-macOS https://github.com/littlegtplr/Hackintosh-X230-macOS
+- Clover Configurator https://mackie100projects.altervista.org/download-clover-configurator/
+- 分区工具Disk Genius http://www.diskgenius.cn/download.php
+- 二进制文件修改WinHex
+- 多系统引导工具XorBoot http://bbs.wuyou.net/forum.php?mod=viewthread&tid=157812&extra=page%3D1
+- Windows启动编辑BOOTICE http://bbs.wuyou.net/forum.php?mod=viewthread&tid=57675&extra=page%3D1
